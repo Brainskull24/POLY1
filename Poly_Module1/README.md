@@ -14,12 +14,6 @@ Download the codes by downloading the entire repository which will give you acce
 
 ```
 
-After installing the dependencies, run the test file by using the following command:
-
-```shell
-npx hardhat test
-```
-
 ### Deploying the ERC721 Contract
 
 Before deploying, make sure to rename ".env.example" to ".env" and provide your wallet private key where required i.e. "PRIVATE_KEY= 'your wallet private key'". Run the following command to deploy the ERC721 contract to the Goerli Ethereum Testnet:

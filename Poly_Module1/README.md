@@ -47,8 +47,7 @@ npx hardhat run scripts/approveDeposit.js --network goerli
 
 
 ## Author
-
-[Tushar Gangurde](https://github.com/Tushar282002)
+NIMIT GARG
 
 ## License
 
